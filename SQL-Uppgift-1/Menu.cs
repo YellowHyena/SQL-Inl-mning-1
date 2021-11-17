@@ -11,7 +11,7 @@ namespace SQL_Uppgift_1
         public static void MainMenuText()
         {
            Box.Simple(new string[] 
-           {"What do you want to do, ?",
+           {"Choose an option",
             "[1]  View unique countries",
             "[2]  Check if all usernames and passwords are unique",
             "[3]  How many vikings?",
