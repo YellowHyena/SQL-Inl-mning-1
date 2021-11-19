@@ -9,7 +9,6 @@ namespace SQL_Uppgift_1
         static void Main(string[] args)
         {      
            Menu.MainMenu();
-            //System.IO.File.ReadAllText()
         }
     }
 }
